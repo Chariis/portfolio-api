@@ -31,7 +31,7 @@ The API exposes a single `POST` endpoint that:
 
 ## 🏗️ Architecture
 
-`[Architecture Diagram](images/architecture_diagram.png)`
+`![Architecture Diagram](images/architecture_diagram.png)`
 
 **The data flow is as follows:**
 1.  A `POST` request is sent to `https.api.chigoziennadi.com/contact`.
