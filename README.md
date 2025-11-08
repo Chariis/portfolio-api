@@ -54,12 +54,12 @@ The API is live and can be tested directly.
 You can send a test message from your terminal:
 
 ```sh
-curl -X POST '[https://api.chigoziennadi.com/contact](https://api.chigoziennadi.com/contact)' \
+curl -X POST 'https://api.chigoziennadi.com/contact' \
 -H 'Content-Type: application/json' \
 -d '{
     "name": "Your name",
-    "email": "youremail@example.com",
-    "message": "This is a great-looking API project!"
+    "email": "test@example.com",
+    "message": "This is a test of my new live API!"
 }'
 ```
 
