@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Node dependencies
+node_modules
+
+# Build files
+dist
+*.zip
